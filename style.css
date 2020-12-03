@@ -11,10 +11,10 @@ h2 {
     margin : 50px 
 }
 
-}
+
 div.carre_droite
 {
-    margin-left: 410px;
+    margin-left: 320px;
     width: 400px; 
       
 }
@@ -22,15 +22,19 @@ div.carre_gauche
 {
     float: left;  
     background-color: grey;
-    width: 400px ;
+    width: 300px ;
     height: 900px;  
 }
 
-img{
-    margin-left: auto;
-    margin-top: auto;
+div.image{
+    text-align: center;
+    margin-top: 20px;
 }
 
 div.contact {
     text-align: center;
+}
+
+div.pp {
+    margin : 30px ;
 }
