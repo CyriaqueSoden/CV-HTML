@@ -11,15 +11,26 @@ h2 {
     margin : 50px 
 }
 
-div.carre_gauche{
-    height: 800px;
-    width: 300px;
-    background-color: aqua;
-    float: left;
+}
+div.carre_droite
+{
+    margin-left: 410px;
+    width: 400px; 
+      
+}
+div.carre_gauche
+{
+    float: left;  
+    background-color: grey;
+    width: 400px ;
+    height: 900px;  
 }
 
-div.carre_droite{
-    height: 600px;
-    width: 400px ;
-    float: right;
+img{
+    margin-left: auto;
+    margin-top: auto;
+}
+
+div.contact {
+    text-align: center;
 }
